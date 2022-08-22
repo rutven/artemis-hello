@@ -1,10 +1,10 @@
-package name.legkodymov.spring.artemishello;
+package name.legkodymov.spring.artemis.simpleconsumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ArtemisHelloApplicationTests {
+class SimpleConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
